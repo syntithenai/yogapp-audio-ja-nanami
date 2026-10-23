@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 381,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ようこそ。",
+      "file": "c000.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 1,
+      "text": "この練習は、禁煙者としてのあなたのためにあります。",
+      "file": "c001.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 2,
+      "text": "快適な座り方を見つけるか、心地よい場合は横になる。",
+      "file": "c002.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 3,
+      "text": "手を休ませる。",
+      "file": "c003.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 4,
+      "text": "目をやわらかくする、または閉じる。",
+      "file": "c004.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸う。",
+      "file": "c005.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 6,
+      "text": "そして長く息を吐く。",
+      "file": "c006.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 7,
+      "text": "[一時停止:16]",
+      "file": "c007.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 8,
+      "text": "体が支えられているのを感じる。",
+      "file": "c008.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 9,
+      "text": "証明すべきものはない。急ぐ場所もない。",
+      "file": "c009.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 10,
+      "text": "[一時停止:16]",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "私たちは自由の明確な声明を使って作業する。",
+      "file": "c011.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 12,
+      "text": "聞くか、心に響く言葉を無言で繰り返す。",
+      "file": "c012.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 13,
+      "text": "[一時停止:18]",
+      "file": "c013.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 14,
+      "text": "私は今、禁煙者です。",
+      "file": "c014.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 15,
+      "text": "[一時停止:16]",
+      "file": "c015.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 16,
+      "text": "私はニコチン依存症から解放されたことをとても嬉しく思います。",
+      "file": "c016.ogg",
+      "durationSec": 10.2
+    },
+    {
+      "index": 17,
+      "text": "[一時停止:18]",
+      "file": "c017.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 18,
+      "text": "喫煙はもはや私の人生やアイデンティティの一部ではありません。",
+      "file": "c018.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 19,
+      "text": "[一時停止:18]",
+      "file": "c019.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 20,
+      "text": "私は過去の記憶や他の喫煙者を見ることによって、これらの誘発を感じています。",
+      "file": "c020.ogg",
+      "durationSec": 12.312
+    },
+    {
+      "index": 21,
+      "text": "[一時停止:18]",
+      "file": "c021.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 22,
+      "text": "これらの誘発は、私は依存の奴隷から解放されたので、私に何の影響も与えることができない。",
+      "file": "c022.ogg",
+      "durationSec": 14.832
+    },
+    {
+      "index": 23,
+      "text": "[一時停止:22]",
+      "file": "c023.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 24,
+      "text": "まだ喫煙の欺瞞にとらわれている喫煙者たちに、私は同情します。",
+      "file": "c024.ogg",
+      "durationSec": 10.344
+    },
+    {
+      "index": 25,
+      "text": "ニコチンの枯渇、衝動、そして再充填という、悲惨なサイクルに閉じ込められている人たちです。",
+      "file": "c025.ogg",
+      "durationSec": 14.736
+    },
+    {
+      "index": 26,
+      "text": "[一時停止:18]",
+      "file": "c026.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 27,
+      "text": "もう私は彼らのように苦しむことはありません。",
+      "file": "c027.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 28,
+      "text": "[一時停止:14]",
+      "file": "c028.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 29,
+      "text": "今、私は真実を知っています。",
+      "file": "c029.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 30,
+      "text": "喫煙には絶対に何のメリットもありません。",
+      "file": "c030.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 31,
+      "text": "[一時停止:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 32,
+      "text": "尿検査棒は誰にも助けになったことはなく、決してそうなることはありません。",
+      "file": "c032.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 33,
+      "text": "[一時停止:18]",
+      "file": "c033.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 34,
+      "text": "喫煙は私に多くの問題をもたらしました。",
+      "file": "c034.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 35,
+      "text": "[一時停止:14]",
+      "file": "c035.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 36,
+      "text": "あの嫌悪すべき毒をもう一吸いも吸わないという、人生で最高の決断をしました。",
+      "file": "c036.ogg",
+      "durationSec": 12.048
+    },
+    {
+      "index": 37,
+      "text": "その決断は最終的でした。",
+      "file": "c037.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 38,
+      "text": "[一時停止:22]",
+      "file": "c038.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 39,
+      "text": "今、私は喫煙の法則を尊重しています。",
+      "file": "c039.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 40,
+      "text": "[一時停止:18]",
+      "file": "c040.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 41,
+      "text": "今、私のあらゆる状況が良くなっています。",
+      "file": "c041.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 42,
+      "text": "私はより幸せで、健康で、自信に満ちた人間になっています。",
+      "file": "c042.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 43,
+      "text": "[一時停止:22]",
+      "file": "c043.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 44,
+      "text": "私は自由です。",
+      "file": "c044.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 45,
+      "text": "[一時停止:28]",
+      "file": "c045.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 46,
+      "text": "その自由の中に、数呼吸分、安らぎながら留まりましょう。",
+      "file": "c046.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 47,
+      "text": "引き金は、古い記憶としてまだ訪れるかもしれません。",
+      "file": "c047.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 48,
+      "text": "彼らはあなたを再び奴隷にすることはできません。",
+      "file": "c048.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 49,
+      "text": "[一時停止:36]",
+      "file": "c049.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 50,
+      "text": "私は今、禁煙者です。",
+      "file": "c050.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 51,
+      "text": "私は自由です。",
+      "file": "c051.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 52,
+      "text": "[一時停止:28]",
+      "file": "c052.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 53,
+      "text": "もう一つ、楽な呼吸を吸ってください。",
+      "file": "c053.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 54,
+      "text": "指をくねくねさせてください。",
+      "file": "c054.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 55,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c055.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 56,
+      "text": "この自由をあなたと共に持ってください。",
+      "file": "c056.ogg",
+      "durationSec": 6.384
+    }
+  ]
+}

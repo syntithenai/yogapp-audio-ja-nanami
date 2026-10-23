@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 167,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "自分が散乱している、または活性化していると感じる場合は、この練習が役に立ちます。",
+      "file": "c001.ogg",
+      "durationSec": 13.344
+    },
+    {
+      "index": 2,
+      "text": "安全だと思うなら、今は目を開けたままにしておいてください。",
+      "file": "c002.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 3,
+      "text": "両足を床に置きます。",
+      "file": "c003.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 4,
+      "text": "[休止:17]",
+      "file": "c004.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 5,
+      "text": "目に見えるものを 5 つ挙げてください。",
+      "file": "c005.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 6,
+      "text": "静かに。ゆっくりしてください。",
+      "file": "c006.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 7,
+      "text": "[休止:45]",
+      "file": "c007.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 8,
+      "text": "あなたが感じたり触れたりできるものを 4 つ挙げてください。",
+      "file": "c008.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 9,
+      "text": "服。椅子。肌に空気が当たる。足は床にあります。",
+      "file": "c009.ogg",
+      "durationSec": 12.576
+    },
+    {
+      "index": 10,
+      "text": "[休止:39]",
+      "file": "c010.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 11,
+      "text": "音を3つ挙げてください。",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "近くても遠くても。柔らかくても透明でも。",
+      "file": "c012.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 13,
+      "text": "[休止:39]",
+      "file": "c013.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 14,
+      "text": "2 つの香りの名前を挙げてください。または単に空気の質に注目してください。",
+      "file": "c014.ogg",
+      "durationSec": 12.912
+    },
+    {
+      "index": 15,
+      "text": "[休止:28]",
+      "file": "c015.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 16,
+      "text": "口の中の味、または感覚を 1 つ挙げてください。",
+      "file": "c016.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 17,
+      "text": "[休止:23]",
+      "file": "c017.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 18,
+      "text": "あなたはここにいる。この体で。この部屋で。",
+      "file": "c018.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 19,
+      "text": "4人で息を吸います。",
+      "file": "c019.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 20,
+      "text": "6人でアウト。",
+      "file": "c020.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 21,
+      "text": "[休止:23]",
+      "file": "c021.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 22,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c022.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 23,
+      "text": "指を小刻みに動かします。",
+      "file": "c023.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 24,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c024.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 25,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c025.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

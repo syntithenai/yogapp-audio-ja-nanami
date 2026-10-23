@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 192,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "到着まで時間がかかります。",
+      "file": "c001.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 2,
+      "text": "サポートを受けながら座ったり横になったりしてください。",
+      "file": "c002.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 3,
+      "text": "安全だと感じたら目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "地面との接触を感じます。",
+      "file": "c004.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "息を長く吐く。",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "[休止:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "また。",
+      "file": "c008.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 9,
+      "text": "[休止:28]",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "肩を落としましょう。",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "お腹を柔らかくしましょう。",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[休止:36]",
+      "file": "c012.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 13,
+      "text": "自分自身を山だと想像してください。",
+      "file": "c013.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 14,
+      "text": "ベースが広い。静かなピーク。膨大な忍耐力。",
+      "file": "c014.ogg",
+      "durationSec": 11.088
+    },
+    {
+      "index": 15,
+      "text": "[休止:43]",
+      "file": "c015.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 16,
+      "text": "天気は山を越えて移ります。",
+      "file": "c016.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 17,
+      "text": "太陽。風。雲。嵐。",
+      "file": "c017.ogg",
+      "durationSec": 9.672
+    },
+    {
+      "index": 18,
+      "text": "山は残っています。",
+      "file": "c018.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 19,
+      "text": "[休止:57]",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "思考と気分は天気です。",
+      "file": "c020.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 21,
+      "text": "あなたは山です。",
+      "file": "c021.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 22,
+      "text": "[休止:57]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "体の根元がしっかりしているのを感じてください。",
+      "file": "c023.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 24,
+      "text": "負担なく背骨の高さを感じます。",
+      "file": "c024.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 25,
+      "text": "[休止:43]",
+      "file": "c025.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 26,
+      "text": "山の周りの空のように呼吸します。",
+      "file": "c026.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 27,
+      "text": "[休止:71]",
+      "file": "c027.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 28,
+      "text": "安定した。ゆっくりと。十分。",
+      "file": "c028.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 29,
+      "text": "[休止:90]",
+      "file": "c029.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 30,
+      "text": "[休止:43]",
+      "file": "c030.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 31,
+      "text": "呼吸を深め始めます。",
+      "file": "c031.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 32,
+      "text": "もう一度部屋を感じてください。",
+      "file": "c032.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 33,
+      "text": "指や足の指を小刻みに動かします。",
+      "file": "c033.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 34,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c034.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 35,
+      "text": "ゆっくりと次のことに取り組んでください。",
+      "file": "c035.ogg",
+      "durationSec": 6.144
+    }
+  ]
+}

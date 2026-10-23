@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 152,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "数サイクルの呼吸から始めます。",
+      "file": "c006.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 7,
+      "text": "[休止:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "さあ、広げてください。サウンドを含めます。",
+      "file": "c008.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 9,
+      "text": "近く。遠い。変化。安定した。",
+      "file": "c009.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 10,
+      "text": "[休止:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 11,
+      "text": "体の感覚も含めて。",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "連絡先。温度。柔らかいパルス。",
+      "file": "c012.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 13,
+      "text": "[休止:28]",
+      "file": "c013.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 14,
+      "text": "部屋のスペースも含めて。",
+      "file": "c014.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 15,
+      "text": "青空のような意識。",
+      "file": "c015.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 16,
+      "text": "[休止:34]",
+      "file": "c016.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 17,
+      "text": "思考は天気のように現れるかもしれません。",
+      "file": "c017.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 18,
+      "text": "追いかけたり押したりする必要はありません。",
+      "file": "c018.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 19,
+      "text": "空は残っています。",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "[休止:45]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "この開けた野原で休んでください。",
+      "file": "c021.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 22,
+      "text": "[休止:45]",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c023.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 24,
+      "text": "指を小刻みに動かします。",
+      "file": "c024.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 25,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c025.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 26,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c026.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

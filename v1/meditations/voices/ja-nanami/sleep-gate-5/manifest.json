@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 117,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "この練習は眠りの限界に向けてのものです。",
+      "file": "c000.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 1,
+      "text": "照明を暗くしてください。横になる。",
+      "file": "c001.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 2,
+      "text": "この瞬間に終わらせるべきことは何も残っていない。",
+      "file": "c002.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 3,
+      "text": "[休止:24]",
+      "file": "c003.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 4,
+      "text": "静かに吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 5,
+      "text": "息を長く吐きます。",
+      "file": "c005.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 6,
+      "text": "[休止:24]",
+      "file": "c006.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 7,
+      "text": "額を解放します。",
+      "file": "c007.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 8,
+      "text": "目を放します。",
+      "file": "c008.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 9,
+      "text": "顎を放します。",
+      "file": "c009.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 10,
+      "text": "[休止:29]",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "重い腕。重い足。",
+      "file": "c011.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 12,
+      "text": "[休止:29]",
+      "file": "c012.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 13,
+      "text": "思考が訪れたら、夜行車のように通り過ぎていきましょう。",
+      "file": "c013.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 14,
+      "text": "あなたは息とともに留まります。",
+      "file": "c014.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 15,
+      "text": "[休止:45]",
+      "file": "c015.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 16,
+      "text": "体が沈む。",
+      "file": "c016.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 17,
+      "text": "静かに息を吐きます。",
+      "file": "c017.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 18,
+      "text": "[休止:45]",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "眠りが来たら、そのままにしましょう。",
+      "file": "c019.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 20,
+      "text": "そうでない場合は、とにかく休んでください。",
+      "file": "c020.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 21,
+      "text": "[休止:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 22,
+      "text": "今日はおやすみなさい。",
+      "file": "c022.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}

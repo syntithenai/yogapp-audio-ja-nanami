@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 224,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "到着まで時間がかかります。",
+      "file": "c001.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 2,
+      "text": "サポートを受けながら座ったり横になったりしてください。",
+      "file": "c002.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 3,
+      "text": "安全だと感じたら目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "地面との接触を感じます。",
+      "file": "c004.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "息を長く吐く。",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "[休止:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 8,
+      "text": "また。",
+      "file": "c008.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 9,
+      "text": "[休止:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 10,
+      "text": "肩を落としましょう。",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "お腹を柔らかくしましょう。",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[休止:32]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "それが役に立てば、心に手を当ててください。",
+      "file": "c013.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 14,
+      "text": "判断せずに自分の状態に注目してください。",
+      "file": "c014.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 15,
+      "text": "[休止:32]",
+      "file": "c015.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 16,
+      "text": "これは苦しみの瞬間、あるいは普通の人間の緊張の瞬間です。",
+      "file": "c016.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 17,
+      "text": "他の人もこれを感じています。",
+      "file": "c017.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 18,
+      "text": "[休止:39]",
+      "file": "c018.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 19,
+      "text": "今この瞬間も自分に優しくできますように。",
+      "file": "c019.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 20,
+      "text": "[休止:32]",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "ありのままの自分を受け入れられますように。",
+      "file": "c021.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 22,
+      "text": "[休止:32]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "自分に必要な思いやりを与えられますように。",
+      "file": "c023.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 24,
+      "text": "[休止:39]",
+      "file": "c024.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 25,
+      "text": "着いたフレーズを繰り返します。そうでないものは放っておいてください。",
+      "file": "c025.ogg",
+      "durationSec": 11.064
+    },
+    {
+      "index": 26,
+      "text": "[休止:52]",
+      "file": "c026.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 27,
+      "text": "賢明な友人のように自分自身に話しかけることを想像してみてください。",
+      "file": "c027.ogg",
+      "durationSec": 10.776
+    },
+    {
+      "index": 28,
+      "text": "彼らはどんなトーンを使うでしょうか？",
+      "file": "c028.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 29,
+      "text": "今、そのトーンを自分自身に提供してください。",
+      "file": "c029.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 30,
+      "text": "[休止:65]",
+      "file": "c030.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 31,
+      "text": "優しさを吸い込みます。",
+      "file": "c031.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 32,
+      "text": "厳しさを吐き出します。",
+      "file": "c032.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 33,
+      "text": "[休止:78]",
+      "file": "c033.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 34,
+      "text": "[休止:39]",
+      "file": "c034.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 35,
+      "text": "呼吸を深め始めます。",
+      "file": "c035.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 36,
+      "text": "もう一度部屋を感じてください。",
+      "file": "c036.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 37,
+      "text": "指や足の指を小刻みに動かします。",
+      "file": "c037.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 38,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c038.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 39,
+      "text": "ゆっくりと次のことに取り組んでください。",
+      "file": "c039.ogg",
+      "durationSec": 6.144
+    }
+  ]
+}

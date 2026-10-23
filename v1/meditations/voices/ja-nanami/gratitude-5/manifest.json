@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 182,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "今日、または今週役に立った小さなことを 1 つ思い出してください。",
+      "file": "c006.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 7,
+      "text": "それは普通のことかもしれません。温水。メッセージです。壁に光が当たります。",
+      "file": "c007.ogg",
+      "durationSec": 15.672
+    },
+    {
+      "index": 8,
+      "text": "[休止:21]",
+      "file": "c008.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 9,
+      "text": "意識を持ってそっと握ってください。",
+      "file": "c009.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 10,
+      "text": "胸や顔が柔らかくなっていることに注目してください。",
+      "file": "c010.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 11,
+      "text": "[休止:26]",
+      "file": "c011.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 12,
+      "text": "黙って、この一言に感謝してください。",
+      "file": "c012.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 13,
+      "text": "ここに来てくれてありがとう。",
+      "file": "c013.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 14,
+      "text": "[休止:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 15,
+      "text": "さて、二番目のことです。もう一つ小さな良いもの。",
+      "file": "c015.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 16,
+      "text": "[休止:26]",
+      "file": "c016.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 17,
+      "text": "ありがとう。",
+      "file": "c017.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 18,
+      "text": "[休止:15]",
+      "file": "c018.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 19,
+      "text": "そしてもう一つ。 3番目。",
+      "file": "c019.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 20,
+      "text": "[休止:26]",
+      "file": "c020.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 21,
+      "text": "感謝の気持ちをシンプルにしましょう。強制ではありません。今気づいた。",
+      "file": "c021.ogg",
+      "durationSec": 12.96
+    },
+    {
+      "index": 22,
+      "text": "[休止:31]",
+      "file": "c022.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 23,
+      "text": "その暖かさの中で数呼吸お休みください。",
+      "file": "c023.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 24,
+      "text": "[休止:41]",
+      "file": "c024.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 25,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c025.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 26,
+      "text": "指を小刻みに動かします。",
+      "file": "c026.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 27,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c027.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 28,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c028.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

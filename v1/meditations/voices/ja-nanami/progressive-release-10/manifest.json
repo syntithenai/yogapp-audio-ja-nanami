@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 371,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "この練習では、穏やかな緊張と解放を使用します。",
+      "file": "c001.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 2,
+      "text": "可能であれば横になるか、支えられて座ってください。",
+      "file": "c002.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 3,
+      "text": "安全だと感じたら目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "強制するものは何もありません。快適な範囲内に留まります。",
+      "file": "c004.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "そして息を長く吐く。",
+      "file": "c006.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 7,
+      "text": "[休止:19]",
+      "file": "c007.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 8,
+      "text": "両足に注目してください。",
+      "file": "c008.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 9,
+      "text": "つま先を丸めて足を引き締めます。",
+      "file": "c009.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 10,
+      "text": "所有。",
+      "file": "c010.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 11,
+      "text": "[休止:19]",
+      "file": "c011.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 12,
+      "text": "リリース。",
+      "file": "c012.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 13,
+      "text": "違いを感じてください。",
+      "file": "c013.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 14,
+      "text": "[休止:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 15,
+      "text": "ふくらはぎを引き締めます。",
+      "file": "c015.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 16,
+      "text": "所有。",
+      "file": "c016.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 17,
+      "text": "[休止:19]",
+      "file": "c017.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 18,
+      "text": "リリース。",
+      "file": "c018.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 19,
+      "text": "下肢が重くなるようにしてください。",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "[休止:21]",
+      "file": "c020.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 21,
+      "text": "太ももを引き締めます。",
+      "file": "c021.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 22,
+      "text": "所有。",
+      "file": "c022.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 23,
+      "text": "[休止:19]",
+      "file": "c023.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 24,
+      "text": "リリース。",
+      "file": "c024.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 25,
+      "text": "柔らかい足。柔らかいヒップ。",
+      "file": "c025.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 26,
+      "text": "[休止:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 27,
+      "text": "お腹をゆっくりと内側に引き込みます。",
+      "file": "c027.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 28,
+      "text": "緊張せずに持ちましょう。",
+      "file": "c028.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 29,
+      "text": "[休止:19]",
+      "file": "c029.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 30,
+      "text": "リリース。",
+      "file": "c030.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 31,
+      "text": "呼吸に合わせてお腹を自由に動かしましょう。",
+      "file": "c031.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 32,
+      "text": "[休止:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 33,
+      "text": "柔らかい拳を作ります。手と前腕を締めます。",
+      "file": "c033.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 34,
+      "text": "所有。",
+      "file": "c034.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 35,
+      "text": "[休止:19]",
+      "file": "c035.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 36,
+      "text": "リリース。",
+      "file": "c036.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 37,
+      "text": "指が開いています。腕が重い。",
+      "file": "c037.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 38,
+      "text": "[休止:21]",
+      "file": "c038.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 39,
+      "text": "肩を耳に向かってすくめます。",
+      "file": "c039.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 40,
+      "text": "所有。",
+      "file": "c040.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 41,
+      "text": "[休止:19]",
+      "file": "c041.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 42,
+      "text": "それらをドロップしてください。",
+      "file": "c042.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 43,
+      "text": "背中上部に空間を感じてください。",
+      "file": "c043.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 44,
+      "text": "[休止:21]",
+      "file": "c044.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 45,
+      "text": "顔をそっとこすります。目、眉、顎。",
+      "file": "c045.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 46,
+      "text": "所有。",
+      "file": "c046.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 47,
+      "text": "[休止:19]",
+      "file": "c047.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 48,
+      "text": "リリース。",
+      "file": "c048.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 49,
+      "text": "額は滑らか。顎が柔らかい。舌の休息。",
+      "file": "c049.ogg",
+      "durationSec": 10.656
+    },
+    {
+      "index": 50,
+      "text": "[休止:23]",
+      "file": "c050.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 51,
+      "text": "次に、全身を軽く緊張させて一つにします。",
+      "file": "c051.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 52,
+      "text": "息を止めてください。",
+      "file": "c052.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 53,
+      "text": "[休止:35]",
+      "file": "c053.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 54,
+      "text": "すべてを手放しましょう。",
+      "file": "c054.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 55,
+      "text": "[休止:8]",
+      "file": "c055.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 56,
+      "text": "もう一度、全身を軽く絞ります。",
+      "file": "c056.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 57,
+      "text": "短く押し続けます。",
+      "file": "c057.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 58,
+      "text": "[休止:5]",
+      "file": "c058.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 59,
+      "text": "そして完全に解放します。",
+      "file": "c059.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 60,
+      "text": "今はもっと重くなりました。今はもっと柔らかくなりました。",
+      "file": "c060.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 61,
+      "text": "体が下の表面に落ち着くのを感じてください。",
+      "file": "c061.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 62,
+      "text": "[休止:39]",
+      "file": "c062.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 63,
+      "text": "ここで休んでください。",
+      "file": "c063.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 64,
+      "text": "静かに息を吐きます。体が柔らかい。",
+      "file": "c064.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 65,
+      "text": "思考が戻ってきたら、それでいい。",
+      "file": "c065.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 66,
+      "text": "解放感に戻ります。",
+      "file": "c066.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 67,
+      "text": "[休止:50]",
+      "file": "c067.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 68,
+      "text": "柔らかくしてください。",
+      "file": "c068.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 69,
+      "text": "[休止:40]",
+      "file": "c069.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 70,
+      "text": "指や足の指を小刻みに動かします。",
+      "file": "c070.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 71,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c071.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 72,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c072.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 73,
+      "text": "この柔らかさを持ち歩きましょう。",
+      "file": "c073.ogg",
+      "durationSec": 5.472
+    }
+  ]
+}

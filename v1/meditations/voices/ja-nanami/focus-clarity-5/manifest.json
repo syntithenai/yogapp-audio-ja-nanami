@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 182,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "アンカーを 1 つ選択します。鼻孔での呼吸、または腹部の盛り上がり。",
+      "file": "c006.ogg",
+      "durationSec": 11.928
+    },
+    {
+      "index": 7,
+      "text": "そこで注意を払ってください。",
+      "file": "c007.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 8,
+      "text": "[休止:23]",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "心がさまようときは、それがどこに行ったのかに注目してください。",
+      "file": "c009.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 10,
+      "text": "それから戻ります。よろしくお願いします。きれいに。",
+      "file": "c010.ogg",
+      "durationSec": 10.608
+    },
+    {
+      "index": 11,
+      "text": "[休止:29]",
+      "file": "c011.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 12,
+      "text": "帰りはトレーニングです。",
+      "file": "c012.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 13,
+      "text": "吸い込む。滞在する。",
+      "file": "c013.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 14,
+      "text": "息を吐きます。滞在する。",
+      "file": "c014.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 15,
+      "text": "[休止:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "役立つ場合は、呼吸を 5 まで数えてから、もう一度始めてください。",
+      "file": "c016.ogg",
+      "durationSec": 10.776
+    },
+    {
+      "index": 17,
+      "text": "1つ。",
+      "file": "c017.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 18,
+      "text": "[休止:17]",
+      "file": "c018.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 19,
+      "text": "二。",
+      "file": "c019.ogg",
+      "durationSec": 2.088
+    },
+    {
+      "index": 20,
+      "text": "[休止:17]",
+      "file": "c020.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 21,
+      "text": "三つ。",
+      "file": "c021.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 22,
+      "text": "[休止:17]",
+      "file": "c022.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 23,
+      "text": "4つ目。",
+      "file": "c023.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 24,
+      "text": "[休止:17]",
+      "file": "c024.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 25,
+      "text": "五。",
+      "file": "c025.ogg",
+      "durationSec": 2.112
+    },
+    {
+      "index": 26,
+      "text": "[休止:23]",
+      "file": "c026.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 27,
+      "text": "カウントを解除します。",
+      "file": "c027.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 28,
+      "text": "しばらくの間、意識をはっきりさせて休んでください。",
+      "file": "c028.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 29,
+      "text": "[休止:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 30,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c030.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 31,
+      "text": "指を小刻みに動かします。",
+      "file": "c031.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 32,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c032.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 33,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c033.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

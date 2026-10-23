@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 278,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ようこそ。",
+      "file": "c000.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 1,
+      "text": "もし渇望が現れているなら、あなたは正しい場所にいます。",
+      "file": "c001.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 2,
+      "text": "それを戦ったり、食べ物のように与えたりする必要はありません。",
+      "file": "c002.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 3,
+      "text": "安定した座りの姿勢をとるか、両足を地面につけたまま立ってください。",
+      "file": "c003.ogg",
+      "durationSec": 10.608
+    },
+    {
+      "index": 4,
+      "text": "目を柔らかくするか、穏やかな視線を保ってください。",
+      "file": "c004.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸ってください。",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "そして、長めに息を吐いてください。",
+      "file": "c006.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 7,
+      "text": "[一時停止:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "何が起きているか、シンプルに名付けましょう。",
+      "file": "c008.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 9,
+      "text": "渇望が存在しています。",
+      "file": "c009.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 10,
+      "text": "それは身体と心の中の波です。",
+      "file": "c010.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 11,
+      "text": "それは命令ではありません。",
+      "file": "c011.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 12,
+      "text": "[一時停止:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 13,
+      "text": "それを感じている場所に気づいてください。",
+      "file": "c013.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 14,
+      "text": "胸。喉。手。落ち着きのなさ。",
+      "file": "c014.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 15,
+      "text": "大きくする必要はない。見つけるだけだ。",
+      "file": "c015.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 16,
+      "text": "[一時停止:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 17,
+      "text": "その場所に息を吸い込む。",
+      "file": "c017.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 18,
+      "text": "柔らかい空間を吸い込む。",
+      "file": "c018.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 19,
+      "text": "行動せずに息を吐く。",
+      "file": "c019.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 20,
+      "text": "[一時停止:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 21,
+      "text": "衝動は上がり、頂点に達し、下がる。",
+      "file": "c021.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 22,
+      "text": "あなたは岸。波は通過する。",
+      "file": "c022.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 23,
+      "text": "[一時停止:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "心がタバコが必要だという物語を提供するなら、感謝して戻る。",
+      "file": "c024.ogg",
+      "durationSec": 10.656
+    },
+    {
+      "index": 25,
+      "text": "呼吸に戻る。",
+      "file": "c025.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 26,
+      "text": "床に足を戻す。",
+      "file": "c026.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 27,
+      "text": "[一時停止:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 28,
+      "text": "必要なら、無言で。",
+      "file": "c028.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 29,
+      "text": "これは一時的なものだ。",
+      "file": "c029.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 30,
+      "text": "私はタバコを吸わずにこれを乗り越えられる。",
+      "file": "c030.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 31,
+      "text": "[一時停止:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 32,
+      "text": "もう一度。柔らかく吸い込む。",
+      "file": "c032.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 33,
+      "text": "長く吐く。",
+      "file": "c033.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 34,
+      "text": "[一時停止:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 35,
+      "text": "ほんの少しでも緩和を感じ取る。",
+      "file": "c035.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 36,
+      "text": "あるいは、自分自身に留まっていたことに気づく。",
+      "file": "c036.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 37,
+      "text": "どちらも重要だ。",
+      "file": "c037.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 38,
+      "text": "[一時停止:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 39,
+      "text": "あなたは、古い記憶に出会う非喫煙者です。",
+      "file": "c039.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 40,
+      "text": "その衝動は訪れるかもしれない。しかし、あなたを支配することはできない。",
+      "file": "c040.ogg",
+      "durationSec": 12.96
+    },
+    {
+      "index": 41,
+      "text": "[一時停止:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 42,
+      "text": "もう一度、楽な呼吸を一つ取りましょう。",
+      "file": "c042.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 43,
+      "text": "指をくねくねと動かしてください。",
+      "file": "c043.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 44,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c044.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 45,
+      "text": "自由な一日を続けてください。",
+      "file": "c045.ogg",
+      "durationSec": 5.64
+    }
+  ]
+}

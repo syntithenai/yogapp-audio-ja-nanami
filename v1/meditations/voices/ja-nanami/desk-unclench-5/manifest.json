@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 137,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "座ったままにしてください。仕事の途中用です。",
+      "file": "c001.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 2,
+      "text": "しばらく画面から視線を外してください。",
+      "file": "c002.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 3,
+      "text": "できれば遠くを見てください。",
+      "file": "c003.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 4,
+      "text": "[休止:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 5,
+      "text": "肩を上、後ろ、下に回します。",
+      "file": "c005.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 6,
+      "text": "あと2回。",
+      "file": "c006.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 7,
+      "text": "[休止:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 8,
+      "text": "手を開いたり閉じたりします。",
+      "file": "c008.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 9,
+      "text": "軽く振ってください。",
+      "file": "c009.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 10,
+      "text": "[休止:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 11,
+      "text": "眉を柔らかくします。",
+      "file": "c011.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 12,
+      "text": "顎を緩めます。舌を休ませましょう。",
+      "file": "c012.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 13,
+      "text": "[休止:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 14,
+      "text": "肋骨の側面に息を吸います。",
+      "file": "c014.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 15,
+      "text": "息を吐き、胸を落ち着かせます。",
+      "file": "c015.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 16,
+      "text": "[休止:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 17,
+      "text": "ゆっくりと3回点滅します。",
+      "file": "c017.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 18,
+      "text": "[休止:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 19,
+      "text": "もう一息。",
+      "file": "c019.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 20,
+      "text": "準備ができたら、少し緊張を緩めて戻ってください。",
+      "file": "c020.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 21,
+      "text": "[休止:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c022.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 23,
+      "text": "指を小刻みに動かします。",
+      "file": "c023.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 24,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c024.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 25,
+      "text": "安心して次のタスクに戻れます。",
+      "file": "c025.ogg",
+      "durationSec": 5.928
+    }
+  ]
+}

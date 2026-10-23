@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 169,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "心臓に手を置くか、両手を膝の上に置きます。",
+      "file": "c006.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 7,
+      "text": "修正せずに、自分がどのような状態であるかに注目してください。",
+      "file": "c007.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 8,
+      "text": "[休止:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 9,
+      "text": "葛藤がある場合は、それを認めてください。",
+      "file": "c009.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 10,
+      "text": "これは困難の瞬間です。",
+      "file": "c010.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 11,
+      "text": "困難は人間であることの一部です。",
+      "file": "c011.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 12,
+      "text": "[休止:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 13,
+      "text": "友人に優しさを与えるのと同じように、自分自身にも優しさを与えてください。",
+      "file": "c013.ogg",
+      "durationSec": 11.544
+    },
+    {
+      "index": 14,
+      "text": "自分に優しくできますように。",
+      "file": "c014.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 15,
+      "text": "自分に必要な思いやりを与えられますように。",
+      "file": "c015.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 16,
+      "text": "[休止:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 17,
+      "text": "またゆっくりと。",
+      "file": "c017.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 18,
+      "text": "自分に優しくできますように。",
+      "file": "c018.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 19,
+      "text": "自分に必要な思いやりを与えられますように。",
+      "file": "c019.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 20,
+      "text": "[休止:45]",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "心臓がある場合は、その手に息を吹き込みます。",
+      "file": "c021.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 22,
+      "text": "[休止:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "この柔らかさは獲得する必要はありません。",
+      "file": "c023.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 24,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c024.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 25,
+      "text": "指を小刻みに動かします。",
+      "file": "c025.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 26,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c026.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 27,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c027.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

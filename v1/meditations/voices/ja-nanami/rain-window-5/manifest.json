@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 155,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 3,
+      "text": "目を柔らかくするか、目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c004.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 5,
+      "text": "そして息を長く吐く。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "静かな雨の日に窓辺に座っているところを想像してみてください。",
+      "file": "c006.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 7,
+      "text": "ガラスが涼しい。外はソフトな世界。",
+      "file": "c007.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 8,
+      "text": "[休止:30]",
+      "file": "c008.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 9,
+      "text": "物語を必要とせずに、雨の音を聞いてください。",
+      "file": "c009.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 10,
+      "text": "小さな蛇口。時折、より重い落下。",
+      "file": "c010.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 11,
+      "text": "[休止:36]",
+      "file": "c011.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 12,
+      "text": "きれいな湿った空気の匂いがします。",
+      "file": "c012.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 13,
+      "text": "グレーの光、優しくてゆったりとした色を参照してください。",
+      "file": "c013.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 14,
+      "text": "[休止:30]",
+      "file": "c014.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 15,
+      "text": "雨が降ると行くところがない。",
+      "file": "c015.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 16,
+      "text": "一時停止の許可。",
+      "file": "c016.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 17,
+      "text": "[休止:36]",
+      "file": "c017.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 18,
+      "text": "ガラスの上の水のリズムに合わせて呼吸します。",
+      "file": "c018.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 19,
+      "text": "[休止:45]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "神経系の合図に従って、柔らかくしましょう。",
+      "file": "c020.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 21,
+      "text": "[休止:36]",
+      "file": "c021.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 22,
+      "text": "もう一度ゆっくり呼吸してください。",
+      "file": "c022.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 23,
+      "text": "指を小刻みに動かします。",
+      "file": "c023.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 24,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c024.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 25,
+      "text": "これを少しだけ持ち歩きましょう。",
+      "file": "c025.ogg",
+      "durationSec": 5.496
+    }
+  ]
+}

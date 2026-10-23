@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 488,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "深い休息の実践へようこそ。",
+      "file": "c000.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 1,
+      "text": "可能であれば仰向けに寝てください。",
+      "file": "c001.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 2,
+      "text": "効果がある場合は、頭と膝をサポートしてください。",
+      "file": "c002.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 3,
+      "text": "腕を体の横に置き、手のひらを柔らかくします。",
+      "file": "c003.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 4,
+      "text": "目を閉じてください。",
+      "file": "c004.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 5,
+      "text": "他に居場所はありません。",
+      "file": "c005.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 6,
+      "text": "[休止:23]",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "床やベッドとの接触点を感じてください。",
+      "file": "c007.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 8,
+      "text": "かかと。ヒップ。肩甲骨。頭。",
+      "file": "c008.ogg",
+      "durationSec": 10.512
+    },
+    {
+      "index": 9,
+      "text": "体を保持させてください。",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "[休止:23]",
+      "file": "c010.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 11,
+      "text": "自然な呼吸に注目してください。",
+      "file": "c011.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 12,
+      "text": "変更する必要はありません。",
+      "file": "c012.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 13,
+      "text": "吸入が到着します。",
+      "file": "c013.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 14,
+      "text": "葉を吐き出します。",
+      "file": "c014.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 15,
+      "text": "[休止:25]",
+      "file": "c015.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 16,
+      "text": "心が忙しくても、それは許されます。",
+      "file": "c016.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 17,
+      "text": "とにかく休めます。",
+      "file": "c017.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 18,
+      "text": "ただ感覚に戻り続けるだけです。",
+      "file": "c018.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 19,
+      "text": "[休止:23]",
+      "file": "c019.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 20,
+      "text": "右足に意識を向けます。",
+      "file": "c020.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 21,
+      "text": "つま先。唯一。ヒール。",
+      "file": "c021.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 22,
+      "text": "[休止:21]",
+      "file": "c022.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 23,
+      "text": "右下肢。",
+      "file": "c023.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 24,
+      "text": "膝。",
+      "file": "c024.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 25,
+      "text": "大腿。",
+      "file": "c025.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 26,
+      "text": "[休止:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 27,
+      "text": "右腰。",
+      "file": "c027.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 28,
+      "text": "右脚全体、重くて静か。",
+      "file": "c028.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 29,
+      "text": "[休止:23]",
+      "file": "c029.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 30,
+      "text": "左足。",
+      "file": "c030.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 31,
+      "text": "つま先。唯一。ヒール。",
+      "file": "c031.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 32,
+      "text": "[休止:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 33,
+      "text": "左下肢。",
+      "file": "c033.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 34,
+      "text": "膝。",
+      "file": "c034.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 35,
+      "text": "大腿。",
+      "file": "c035.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 36,
+      "text": "[休止:21]",
+      "file": "c036.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 37,
+      "text": "左腰。",
+      "file": "c037.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 38,
+      "text": "左足全体が重くて静か。",
+      "file": "c038.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 39,
+      "text": "[休止:23]",
+      "file": "c039.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 40,
+      "text": "骨盤と下腹部。",
+      "file": "c040.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 41,
+      "text": "柔らかい。",
+      "file": "c041.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 42,
+      "text": "[休止:21]",
+      "file": "c042.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 43,
+      "text": "胸が上がったり下がったり。",
+      "file": "c043.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 44,
+      "text": "心のスペースがオープンで簡単です。",
+      "file": "c044.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 45,
+      "text": "[休止:23]",
+      "file": "c045.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 46,
+      "text": "右手。",
+      "file": "c046.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 47,
+      "text": "指。パーム。手首。",
+      "file": "c047.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 48,
+      "text": "[休止:14]",
+      "file": "c048.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 49,
+      "text": "右腕。肘。ショルダー。",
+      "file": "c049.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 50,
+      "text": "[休止:21]",
+      "file": "c050.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 51,
+      "text": "左手。",
+      "file": "c051.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 52,
+      "text": "指。パーム。手首。",
+      "file": "c052.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 53,
+      "text": "[休止:14]",
+      "file": "c053.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 54,
+      "text": "左腕。肘。ショルダー。",
+      "file": "c054.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 55,
+      "text": "[休止:23]",
+      "file": "c055.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 56,
+      "text": "喉が柔らかい。",
+      "file": "c056.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 57,
+      "text": "顎が緩んでいる。",
+      "file": "c057.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 58,
+      "text": "舌の休息。",
+      "file": "c058.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 59,
+      "text": "[休止:21]",
+      "file": "c059.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 60,
+      "text": "目は眼窩に収まっています。",
+      "file": "c060.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 61,
+      "text": "額は滑らか。",
+      "file": "c061.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 62,
+      "text": "頭皮と頭頂部。",
+      "file": "c062.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 63,
+      "text": "[休止:23]",
+      "file": "c063.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 64,
+      "text": "身体全体を一つの静寂の領域として感じます。",
+      "file": "c064.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 65,
+      "text": "静かな潮流のように息が流れていく。",
+      "file": "c065.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 66,
+      "text": "[休止:62]",
+      "file": "c066.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 67,
+      "text": "全身と一緒にいてください。",
+      "file": "c067.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 68,
+      "text": "[休止:105]",
+      "file": "c068.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 69,
+      "text": "柔らかい。広々とした。まだ。",
+      "file": "c069.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 70,
+      "text": "[休止:55]",
+      "file": "c070.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 71,
+      "text": "考えが浮かんだ場合は、雲のように過ぎ去ってください。",
+      "file": "c071.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 72,
+      "text": "[休止:50]",
+      "file": "c072.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 73,
+      "text": "抱かれている感覚に戻ります。",
+      "file": "c073.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 74,
+      "text": "[休止:55]",
+      "file": "c074.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 75,
+      "text": "ここで休んでください。",
+      "file": "c075.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 76,
+      "text": "何も解決できません。",
+      "file": "c076.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 77,
+      "text": "完了するものは何もありません。",
+      "file": "c077.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 78,
+      "text": "[休止:110]",
+      "file": "c078.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 79,
+      "text": "ドリフトしても大丈夫です。",
+      "file": "c079.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 80,
+      "text": "意識しておけば、それも大丈夫です。",
+      "file": "c080.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 81,
+      "text": "どちらも休みです。",
+      "file": "c081.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 82,
+      "text": "[休止:130]",
+      "file": "c082.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 83,
+      "text": "休む。",
+      "file": "c083.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 84,
+      "text": "[休止:115]",
+      "file": "c084.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 85,
+      "text": "再び呼吸を意識​​し始めます。",
+      "file": "c085.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 86,
+      "text": "もう少し鮮やかになりました。",
+      "file": "c086.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 87,
+      "text": "[休止:23]",
+      "file": "c087.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 88,
+      "text": "あなたの周りの部屋を感じてください。",
+      "file": "c088.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 89,
+      "text": "近くにも遠くにも聞こえる。",
+      "file": "c089.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 90,
+      "text": "[休止:21]",
+      "file": "c090.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 91,
+      "text": "指を小刻みに動かします。",
+      "file": "c091.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 92,
+      "text": "足の指を小刻みに動かします。",
+      "file": "c092.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 93,
+      "text": "お好みに応じて、手首と足首を回転させます。",
+      "file": "c093.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 94,
+      "text": "[休止:21]",
+      "file": "c094.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 95,
+      "text": "深呼吸してください。",
+      "file": "c095.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 96,
+      "text": "そして長いため息。",
+      "file": "c096.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 97,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c097.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 98,
+      "text": "ゆっくりと戻ります。",
+      "file": "c098.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 99,
+      "text": "この静かな時間を少しだけ持ち歩きましょう。",
+      "file": "c099.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}

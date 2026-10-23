@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ja-nanami.zip", "bytes": 70432283, "sha256": "0e4799f080f14fa898d83fd92bad8e9006d6f1d0e08d121e6be7c00b3e83b011"}
+  ]
+}

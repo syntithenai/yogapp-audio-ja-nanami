@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 332,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "到着まで時間がかかります。",
+      "file": "c001.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 2,
+      "text": "サポートを受けながら座ったり横になったりしてください。",
+      "file": "c002.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 3,
+      "text": "安全だと感じたら目を閉じてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "地面との接触を感じます。",
+      "file": "c004.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 5,
+      "text": "ゆっくりと息を吸い込みます。",
+      "file": "c005.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 6,
+      "text": "息を長く吐く。",
+      "file": "c006.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 7,
+      "text": "[休止:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 8,
+      "text": "また。",
+      "file": "c008.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 9,
+      "text": "[休止:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "肩を落としましょう。",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "お腹を柔らかくしましょう。",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "[休止:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 13,
+      "text": "優しさの輪を広げていきます。",
+      "file": "c013.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 14,
+      "text": "フレーズは命令ではなく招待です。",
+      "file": "c014.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 15,
+      "text": "[休止:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "自分自身に向かって。",
+      "file": "c016.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 17,
+      "text": "無事でありますように。",
+      "file": "c017.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 18,
+      "text": "[休止:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 19,
+      "text": "元気でありますように。",
+      "file": "c019.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 20,
+      "text": "[休止:27]",
+      "file": "c020.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 21,
+      "text": "安心して暮らせますように。",
+      "file": "c021.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 22,
+      "text": "[休止:41]",
+      "file": "c022.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 23,
+      "text": "またゆっくりと。",
+      "file": "c023.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 24,
+      "text": "無事でありますように。",
+      "file": "c024.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 25,
+      "text": "元気でありますように。",
+      "file": "c025.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 26,
+      "text": "安心して暮らせますように。",
+      "file": "c026.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 27,
+      "text": "[休止:69]",
+      "file": "c027.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 28,
+      "text": "友人や気にかけやすい人のことを思い出してください。",
+      "file": "c028.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 29,
+      "text": "ご無事でありますように。",
+      "file": "c029.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 30,
+      "text": "[休止:27]",
+      "file": "c030.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 31,
+      "text": "ご無事でありますように。",
+      "file": "c031.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 32,
+      "text": "[休止:27]",
+      "file": "c032.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 33,
+      "text": "安心して暮らせますように。",
+      "file": "c033.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 34,
+      "text": "[休止:69]",
+      "file": "c034.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 35,
+      "text": "中立的な人を思い浮かべてください。ほとんど知らない人。",
+      "file": "c035.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 36,
+      "text": "ご無事でありますように。",
+      "file": "c036.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 37,
+      "text": "ご無事でありますように。",
+      "file": "c037.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 38,
+      "text": "安心して暮らせますように。",
+      "file": "c038.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 39,
+      "text": "[休止:69]",
+      "file": "c039.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 40,
+      "text": "可能だと思われる場合は、難しい人を軽く含めてください。",
+      "file": "c040.ogg",
+      "durationSec": 9.576
+    },
+    {
+      "index": 41,
+      "text": "あるいは、今日その方が賢明であれば、自分自身に戻ってください。",
+      "file": "c041.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 42,
+      "text": "あなたが苦しみから解放されますように。",
+      "file": "c042.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 43,
+      "text": "[休止:55]",
+      "file": "c043.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 44,
+      "text": "近くも遠くもすべての存在に広がります。",
+      "file": "c044.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 45,
+      "text": "すべての存在が安全でありますように。",
+      "file": "c045.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 46,
+      "text": "[休止:34]",
+      "file": "c046.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 47,
+      "text": "すべての存在が元気でありますように。",
+      "file": "c047.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 48,
+      "text": "[休止:34]",
+      "file": "c048.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 49,
+      "text": "すべての存在が安らかに生きられますように。",
+      "file": "c049.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 50,
+      "text": "[休止:82]",
+      "file": "c050.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 51,
+      "text": "自分の体と呼吸に戻ります。",
+      "file": "c051.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 52,
+      "text": "フレーズの余韻に浸ってください。",
+      "file": "c052.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 53,
+      "text": "[休止:150]",
+      "file": "c053.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 54,
+      "text": "強制するものは何もありません。柔らかさは十分です。",
+      "file": "c054.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 55,
+      "text": "[休止:137]",
+      "file": "c055.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 56,
+      "text": "[休止:41]",
+      "file": "c056.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 57,
+      "text": "呼吸を深め始めます。",
+      "file": "c057.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 58,
+      "text": "ここで休んでください。",
+      "file": "c058.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 59,
+      "text": "[休止:26]",
+      "file": "c059.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 60,
+      "text": "もう一度部屋を感じてください。",
+      "file": "c060.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 61,
+      "text": "指や足の指を小刻みに動かします。",
+      "file": "c061.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 62,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c062.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 63,
+      "text": "ゆっくりと次のことに取り組んでください。",
+      "file": "c063.ogg",
+      "durationSec": 6.144
+    }
+  ]
+}

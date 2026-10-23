@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 279,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ようこそ。",
+      "file": "c000.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 1,
+      "text": "これは、澄んだ呼吸の練習です。",
+      "file": "c001.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 2,
+      "text": "快適な座り方を見つけてください。もしそう感じたなら、横になっても構いません。",
+      "file": "c002.ogg",
+      "durationSec": 12.912
+    },
+    {
+      "index": 3,
+      "text": "手を休ませてください。",
+      "file": "c003.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 4,
+      "text": "目を柔らかくするか、閉じてください。",
+      "file": "c004.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 5,
+      "text": "鼻からゆっくりと息を吸ってください。",
+      "file": "c005.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 6,
+      "text": "そして、長めに息を吐いてください。",
+      "file": "c006.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 7,
+      "text": "[一時停止:10]",
+      "file": "c007.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 8,
+      "text": "空気の状態に気づいてください。",
+      "file": "c008.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 9,
+      "text": "吸うときには冷たく。",
+      "file": "c009.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 10,
+      "text": "吐くときには温かく。",
+      "file": "c010.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 11,
+      "text": "煙も毒もありません。ただ呼吸だけです。",
+      "file": "c011.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 12,
+      "text": "[一時停止:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 13,
+      "text": "無理なく胸が広がるのを感じてください。",
+      "file": "c013.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 14,
+      "text": "肋骨が少し広がるのを感じてください。",
+      "file": "c014.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 15,
+      "text": "[一時停止:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 16,
+      "text": "心臓に手を置くか、両手を膝の上に置く。",
+      "file": "c016.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 17,
+      "text": "癒されている体を感じ取る。",
+      "file": "c017.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 18,
+      "text": "肺が澄み、血がより自由に流れ、嗅覚が日々戻ってくるのを感じ取る。",
+      "file": "c018.ogg",
+      "durationSec": 11.04
+    },
+    {
+      "index": 19,
+      "text": "[一時停止:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 20,
+      "text": "静かにこれらのフレーズを試みるか、ただ聞く。",
+      "file": "c020.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 21,
+      "text": "私の呼吸は私に属している。",
+      "file": "c021.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 22,
+      "text": "[一時停止:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 23,
+      "text": "私は清浄な空気を選ぶ。",
+      "file": "c023.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 24,
+      "text": "[一時停止:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 25,
+      "text": "私はその毒とおさらばした。",
+      "file": "c025.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 26,
+      "text": "[一時停止:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 27,
+      "text": "タバコなしの次のお気楽な瞬間を想像する。",
+      "file": "c027.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 28,
+      "text": "コーヒー。散歩。食事後の一時停止。",
+      "file": "c028.ogg",
+      "durationSec": 9.936
+    },
+    {
+      "index": 29,
+      "text": "その瞬間を完成した自分として見、すでに自由であることを感じ取る。",
+      "file": "c029.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 30,
+      "text": "[一時停止:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 31,
+      "text": "喫煙の記憶が浮かんだら、それを計画ではなく、絵として受け入れる。",
+      "file": "c031.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 32,
+      "text": "この吸い込みに戻る。",
+      "file": "c032.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 33,
+      "text": "この吐き出しに戻る。",
+      "file": "c033.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 34,
+      "text": "[一時停止:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 35,
+      "text": "自由を吸い込む。",
+      "file": "c035.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 36,
+      "text": "古い習慣の物語を吐き出す。",
+      "file": "c036.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 37,
+      "text": "[一時停止:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 38,
+      "text": "あなたは大事な決断をした。",
+      "file": "c038.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 39,
+      "text": "あなたの体はその真実に追いついている。",
+      "file": "c039.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 40,
+      "text": "[一時停止:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 41,
+      "text": "もう1回、澄んだ息を吸ってください。",
+      "file": "c041.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 42,
+      "text": "そして、長くゆったりと息を吐き出してください。",
+      "file": "c042.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 43,
+      "text": "指をくねくねさせてください。",
+      "file": "c043.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 44,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c044.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 45,
+      "text": "この澄んだ空気をあなたと共に持って行ってください。",
+      "file": "c045.ogg",
+      "durationSec": 7.704
+    }
+  ]
+}
